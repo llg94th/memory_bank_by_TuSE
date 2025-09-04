@@ -1,4 +1,5 @@
 [Vietnamese version (Phiên bản tiếng Việt)](README_vi.md)
+[memory-bank-instructions](rule/memory-bank-instructions.md)
 
 # How to use Memory Bank and Modes to make work faster
 ## Principles of operation

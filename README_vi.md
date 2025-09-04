@@ -1,3 +1,4 @@
+[memory-bank-instructions](rule/memory-bank-instructions_vi.md)
 # Cách sử dụng Memory Bank và Modes để làm việc nhanh hơn
 ## Nguyên tắc hoạt động
 ### Memory Bank:
